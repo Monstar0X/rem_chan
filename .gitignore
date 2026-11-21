@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.session
+*.session-journal
+log.txt
+error.txt
+errors_msg.txt
+env/
+venv/
+.env
+FallenRobot/config.local.py
